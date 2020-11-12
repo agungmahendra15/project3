@@ -86,7 +86,7 @@
   width: 392px;
   height: 281px;
   margin-left: 44px;
-  margin-top: 40px;
+  margin-top: 25px;
   margin-bottom: 36px;
 }
 
@@ -188,4 +188,7 @@
   .cobaan {
     margin-top: 0px;
   }
+  .panel img {
+  margin-left: 44px;
+}
 }
